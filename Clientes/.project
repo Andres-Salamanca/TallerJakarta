@@ -3,6 +3,7 @@
 	<name>Clientes</name>
 	<comment></comment>
 	<projects>
+		<project>ImplDBInterfaces</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
